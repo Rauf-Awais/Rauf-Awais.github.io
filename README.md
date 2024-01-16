@@ -1,2 +1,2 @@
 # Rauf-Awais.github.io
-My Github pages sitr
+My Github pages site
